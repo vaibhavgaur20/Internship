@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import img from './logo.jpeg';
 
 import App from './App';
 
 const myelement = (
   <ul class="ul">
 	<li class="li">
-		<img class="center"  src="Users/vaibhav/navbar_react/src/logo.jpeg" ></img>
+		<img class="center"  src={img} ></img>
     </li> 
 	
 	<li class="li">

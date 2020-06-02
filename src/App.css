@@ -68,3 +68,8 @@
 	padding : 22px 24px;
 	margin-left:1000px;
 }
+
+
+.Logo {
+    background-image: url(/Users/vaibhav/navbar_react/logo.png);
+  }
