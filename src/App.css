@@ -1,6 +1,6 @@
 .center {
 	padding:5px;
-	margin-left:185px;
+	margin-left:10px;
 	width:90px;
 	height:75px;
     
@@ -10,9 +10,10 @@
 .ul{
 	list-style-type:none;
 	margin:0;
+	margin-left:200px;
 	padding:-1px;
 	overflow:hidden;
-	background-color:#800080;
+	background-color:rgb(255, 255, 255);
 	
 }
 
@@ -29,11 +30,11 @@
 }
 
 .li a:hover{
-	background-color:#9400D3;
+	background-color:#EFE0EE;
 }
 
 .a {
-	color:white;
+	color:black;
 	
 }
 
